@@ -5,7 +5,7 @@ The app has a clean and user-friendly interface powered by Bootstrap and is idea
 
 ---
 
-## ✨ Features
+## Features
 
 ✅ Add new tasks  
 📃 View a list of all tasks  
@@ -15,7 +15,7 @@ The app has a clean and user-friendly interface powered by Bootstrap and is idea
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 🐍 Python  
 🌐 Django (Backend framework)  
